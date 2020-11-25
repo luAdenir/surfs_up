@@ -21,3 +21,7 @@ December Temperature in Oahu:
 ## **Summary**
   Base on the statistics, June and December don't have substantial difference when it comes to its average and highest temperatures. On the other hand, the lowest temperature for the month of December is notable compare to the month of June. This results is not reliable enough to support a business plan especially for a surfboard and ice cream shop. Hawaii has only two seasons, dry (May to September) and wet (October to June). It is highly recommended to do more queries and comparisons with precipitation data for each month.
   
+<img width="239" alt="june_prcp" src="https://user-images.githubusercontent.com/71112826/100166463-a63b0500-2e71-11eb-8a5a-c5366dda0362.png">
+
+
+<img width="247" alt="dec_prcp" src="https://user-images.githubusercontent.com/71112826/100166469-a804c880-2e71-11eb-88d6-c86a16724a64.png">
